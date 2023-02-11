@@ -1,0 +1,263 @@
+[
+	{
+		"id": "1",
+        "title": "Interview Prep",
+		"items": [
+			{
+				"title": "Javascript Questions",
+				"type": "youtube",
+				"list": [
+					"mhZWi9tSy44", 
+					"cHegUQD8VQM",
+					"oxoFVqetl1E",
+					"yo3MJPcVJc8"
+				]
+			},
+			{
+				"title": "Frontend Questions",
+				"type": "youtube",
+				"list": [
+					"ZohZS6xLYE4",
+					"0fFYacBQPbA"
+
+				]
+			},
+			{
+				"title": "React Questions",
+				"type": "youtube",
+				"list": [
+					"JOa41r3Fr4s",
+					"Fp4PlygdV5E"
+				]
+			},
+			{
+				"title": "Javascript Code Challenge Practice",
+				"type": "youtube",
+				"list": [
+					"M2bJBuaOeOQ",
+					"FfchU1FS2IA&t=6s",
+					"tcoiPHktCwQ&t=11s"
+
+				]
+			}
+		]
+	},
+	{
+        "id": "2",
+		"title": "Code Challenge Websites",
+		"items": [
+			{
+				"title": "Code Challenge Prep",
+				"type": "link",
+				"list": [
+					{ "name": "LeetCode", "site": "https://leetcode.com/" },
+					{ "name": "Hacker Rank", "site": "https://www.hackerrank.com/" },
+					{ "name": "Code Wars", "site": "https://www.codewars.com/" }
+				]
+			}
+		]
+	},
+	{
+        "id": "3",
+		"title": "Frontend Recap",
+		"items": [
+			{
+				"title": "JavaScript",
+				"type": "youtube",
+				"list": [
+					"hdI2bqOjy3c"
+				]
+			},
+			{
+				"title": "JavaScript DOM",
+				"type": "youtube",
+				"list": [
+					"0ik6X4DJKCc&t=3s",
+					"mPd2aJXCZ2g",
+					"wK2cBMcDTss&t=763s"
+				]
+			},
+			{
+				"title": "HTML",
+				"type": "youtube",
+				"list": [
+					"UB1O30fR-EE"
+				]
+			},		
+			{
+				"title": "CSS",
+				"type": "youtube",
+				"list": [
+					"yfoY53QXEnI&t=7s"
+				]
+			},		
+			{
+				"title": "React",
+				"type": "youtube",
+				"list": [
+					"w7ejDZ8SWv8&t=20s"
+				]
+			},		
+			{
+				"title": "React Redux",
+				"type": "youtube",
+				"list": [
+					"9jULHSe41ls"
+				]
+			},		
+			{
+				"title": "AWS Deploy",
+				"type": "youtube",
+				"list": [
+					"kKwyKQ8Jxd8"
+				]
+			}	
+		]
+	},
+	{
+        "id": "4",
+		"title": "Improve Your Skills",
+		"items": [
+			{
+				"title": "JavaScript 30",
+				"type": "link",
+				"list": [
+					"https://javascript30.com/"
+				]
+			},
+			{
+				"title": "React Context and Hooks",
+				"type": "youtube",
+				"list": [
+					"6RhOzQciVwI"
+				]
+			},
+			{
+				"title": "Axios",
+				"type": "youtube",
+				"list": [
+					"oQnojIyTXb8"
+				]
+			},
+			{
+				"title": "CSS Flexbox",
+				"type": "youtube",
+				"list": [
+					"fYq5PXgSsbE"
+				]
+			},
+			{
+				"title": "CSS Grid",
+				"type": "youtube",
+				"list": [
+					"9zBsdzdE4sM"
+				]
+			}
+		]
+	},
+	{
+        "id": "5",
+		"title": "Project Ideas",
+		"items": [
+			{
+				"title": "5 Projects to Get Hired",
+				"type": "youtube",
+				"list": [
+					"oluY633rkgI"
+				]
+			},
+			{
+				"title": "50 React Projects",
+				"type": "link",
+				"list": [
+					"https://www.colbyfayock.com/posts/50-projects-for-react-the-static-web"
+				]
+			}
+		]
+	},
+	{
+        "id": "6",
+		"title": "Portfolio Templates and Ideas",
+		"items": [
+			{
+				"title": "Bootstrap Templates",
+				"type": "link",
+				"list": [
+					"https://bootstrapmade.com/bootstrap-portfolio-templates/"
+				]
+			},
+			{
+				"title": "React Portfolio Templates",
+				"type": "link",
+				"list": [
+					"https://reactjsexample.com/tag/portfolio-page/"
+				]
+			}
+		]
+	},
+	{
+        "id": "7",
+		"title": "When You're Ready to Learn Something New",
+		"items": [
+			{
+				"title": "Node (Javascript on the backend)",
+				"type": "youtube",
+				"list": [
+					"2LUdnb-mls0"
+				]
+			},
+			{
+				"title": "Node & Express",
+				"type": "youtube",
+				"list": [
+					"SccSCuHhOw0"
+				]
+			},
+			{
+				"title": "Typescript",
+				"type": "youtube",
+				"list": [
+					"BCg4U1FzODs"
+				]
+			},
+			{
+				"title": "NextJS",
+				"type": "youtube",
+				"list": [
+					"mTz0GXj8NN0&t=23s"
+				]
+			},
+			{
+				"title": "Vue (Another Frontend Framework)",
+				"type": "youtube",
+				"list": [
+					"qZXt1Aom3Cs"
+				]
+			},
+			{
+				"title": "JAM Stack",
+				"type": "youtube",
+				"list": [
+					"hqG8hg2l03k",
+					"73b1ZbmB96I&t=72s",
+					"IATOicvih5A"
+				]
+			}
+		]
+	},
+	{
+        "id": "8",
+		"title": "Podcast About Coding",
+		"items": [
+			{
+				"title": "Give these a listen",
+				"type": "link",
+				"list": [
+					{ "name": "Tech Jr Podcast", "site": "https://techjr.dev/" },
+					{ "name": "Syntax Podcast", "site": "https://syntax.fm/" },
+					{ "name": "Code Newbie Podcast", "site": "https://www.codenewbie.org/podcast" }
+				]
+			}
+		]
+	}
+]
